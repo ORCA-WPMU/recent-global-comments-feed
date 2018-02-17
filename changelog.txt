@@ -1,0 +1,41 @@
+=== Recent Global Comments Feed ===
+Authors: Ivan Shaovchev, Andrew Billits (Incsub)
+
+== Changelog ==
+
+= 1.0.6.2 =
+* IMPORTANT security update
+* XSS prevention patches
+* Update WPMU DEV Update Notification
+
+= 1.0.6.1 =
+* Fix: 404 header
+* Fix: RSS language
+
+= 1.0.6 =
+* Compatibility update for WordPress 3.1
+* Update notifications scripts added
+* RSS Feed display mechanism improved
+* Bug fixes
+
+= 1.0.5 =
+* Switched user login to display name
+
+= 1.0.4 =
+* Added ability to specify number of feed items
+
+= 1.0.3 =
+* Added widget
+
+= 1.0.2 =
+* Fixed a bug resulting in an invalid feed when no comments are available (props drmike)
+
+= 1.0.1 =
+* Fixed a feed bug resulting in an error whne using IE
+* Modified rss tags for better compatibility with feed readers
+
+= 1.0.0 =
+* Initial Release
+
+
+403900-1511250335-ai
